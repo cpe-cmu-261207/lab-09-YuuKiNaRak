@@ -20,4 +20,4 @@ Deploy ไฟล์ที่ build โดยใช้บริการ Static w
 ดูวิธีการใช้ **Surge** ใน MS TEAM Channel General
 โค้ดขอเขียนใน sandbox git push ไม่ขึ้น
 
-https://codesandbox.io/s/lap09-3oysjf?file=/components/Todolist.jsx
+https://codesandbox.io/s/lap09-3oysjf
