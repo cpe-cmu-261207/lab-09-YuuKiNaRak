@@ -19,4 +19,4 @@ Deploy ไฟล์ที่ build โดยใช้บริการ Static w
 
 ดูวิธีการใช้ **Surge** ใน MS TEAM Channel General
 
-https://codesandbox.io/s/lap09-3oysjf?file=/pages/index.js:3874-4023
+-
